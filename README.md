@@ -8,8 +8,9 @@ Orange Pi emulation 1G ram
 - copy /boot from mounted the image
 
 Use the machine trough ssh:
-
-- ssh -p 50022
+```
+ssh -p 50022 root@localhost
+```
 
 ---
 
